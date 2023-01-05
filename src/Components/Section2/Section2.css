@@ -1,0 +1,18 @@
+.section {
+  position: relative;
+  top: -10px;
+  height: 100vh;
+  background-color: #121211;
+}
+.image17 {
+  position: absolute;
+  bottom: 0;
+  height: 80vh;
+}
+.frame9 {
+  position: absolute;
+  margin-top: 133px;
+  height: 400px;
+  right: 0;
+  margin-right: 140px;
+}

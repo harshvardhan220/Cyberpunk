@@ -1,0 +1,92 @@
+.section1 {
+  position: relative;
+}
+
+.bg {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  width: 1536px;
+}
+.section2 {
+  position: relative;
+  top: -10px;
+  height: 120vh;
+  background-color: #fcee0a;
+}
+.position {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.header {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 30px 50px;
+  z-index: 2000;
+}
+.polygons {
+  margin-left: 314px;
+  height: 100vh;
+  z-index: 1000;
+  position: relative;
+}
+.character {
+  height: 100vh;
+  margin-left: 375px;
+}
+.cyberpunk {
+  position: absolute;
+  left: 0;
+  margin-left: 37%;
+  margin-top: 22%;
+  z-index: 2000;
+}
+.playBtn {
+  position: absolute;
+  left: 0;
+  margin-left: 56%;
+  margin-top: 39%;
+  z-index: 2000;
+}
+.availableNow {
+  position: absolute;
+  left: 0;
+  height: 72px;
+  margin-left: 53%;
+  margin-top: 52%;
+  z-index: 2000;
+}
+.welcome {
+  font-family: "Oswald", sans-serif;
+  font-size: 126px;
+  margin-left: 50px;
+}
+.text {
+  position: absolute;
+  left: 122px;
+  margin-top: 330px;
+  font-family: "Oswald", sans-serif;
+  font-size: 126px;
+  margin-left: 50px;
+}
+.frame3 {
+  position: absolute;
+  right: 0;
+  margin-top: 310px;
+  font-family: "Oswald", sans-serif;
+  font-size: 126px;
+  margin-left: 50px;
+}
+.seperator2 {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
